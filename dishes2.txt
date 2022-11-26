@@ -1,0 +1,10 @@
+eat_01 menu_01 chickenlollypop roti paneerbuttermasala
+eat_02 menu_02 chickenBriyani Tandoori 
+eat_03 menu_03 Tandoori chickenlollypop 
+eat_01 menu_04 roti paneerbuttermasala 
+eat_05 menu_05 eggfriedrice
+eat_06 menu_06 pizza KFC
+eat_07 menu_07 mushroomBriyani
+eat_08 menu_08 chickenBriyani Tandoori  
+eat_09 menu_09 chickenlollypop roti 
+eat_10 menu_10 chickenBriyani 
